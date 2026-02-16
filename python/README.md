@@ -216,8 +216,9 @@ from apiverve_chucknorrisjokes.apiClient import ChucknorrisAPIClient
 
 api = ChucknorrisAPIClient("[YOUR_API_KEY]")
 
+# This API does not require a Query
+
 try:
-    # This API does not require a Query
     result = api.execute()
     print(result)
 finally:
