@@ -116,7 +116,7 @@ async function makeRequest() {
   "status": "ok",
   "error": null,
   "data": {
-    "joke": "Some Say That Chuck Has The Ability To Cencor All Who Mock Him. Wrong! So To Prove A Point, Chuck You're A[[this Comment Has Been Removed]}"
+    "joke": "The Mona Lisa Used To Smile, Then Chuck Norris Roundhouse Kicked It"
   }
 }
 ```
