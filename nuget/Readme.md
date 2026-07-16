@@ -51,7 +51,7 @@ Here's a simple example to get you started quickly:
 
 ```csharp
 using System;
-using APIVerve;
+using APIVerve.API.ChuckNorrisJokes;
 
 class Program
 {
@@ -114,7 +114,7 @@ The modern async/await pattern provides the best performance and code readabilit
 ```csharp
 using System;
 using System.Threading.Tasks;
-using APIVerve;
+using APIVerve.API.ChuckNorrisJokes;
 
 public class Example
 {
@@ -144,7 +144,7 @@ If you need to use synchronous code, you can use the `Execute` method:
 
 ```csharp
 using System;
-using APIVerve;
+using APIVerve.API.ChuckNorrisJokes;
 
 public class Example
 {
@@ -179,7 +179,7 @@ The API client provides comprehensive error handling. Here are some examples:
 ```csharp
 using System;
 using System.Threading.Tasks;
-using APIVerve;
+using APIVerve.API.ChuckNorrisJokes;
 
 public class Example
 {
@@ -229,7 +229,7 @@ public class Example
 ```csharp
 using System;
 using System.Threading.Tasks;
-using APIVerve;
+using APIVerve.API.ChuckNorrisJokes;
 
 public class Example
 {
@@ -349,7 +349,7 @@ using (var apiClient = new ChuckNorrisJokesAPIClient("[YOUR_API_KEY]"))
   "status": "ok",
   "error": null,
   "data": {
-    "joke": "Some Say That Chuck Has The Ability To Cencor All Who Mock Him. Wrong! So To Prove A Point, Chuck You're A[[this Comment Has Been Removed]}"
+    "joke": "The Mona Lisa Used To Smile, Then Chuck Norris Roundhouse Kicked It"
   }
 }
 ```
