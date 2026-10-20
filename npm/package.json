@@ -1,7 +1,7 @@
 {
   "name": "@apiverve/chucknorris",
-  "version": "1.2.0",
-  "description": "Chuck Norris Jokes is a simple tool for getting Chuck Norris jokes. It returns a random Chuck Norris joke.",
+  "version": "1.2.2",
+  "description": "Chuck Norris Jokes delivers a random Chuck Norris joke on every request without requiring any query parameters. Each call returns plain joke text ready to display in bots, command-line interfaces, or entertainment feeds.",
   "main": "index.js",
   "types": "index.d.ts",
   "sideEffects": false,
@@ -23,7 +23,7 @@
     "directory": "npm"
   },
   "keywords": [
-    "chuck norris", "chuck norris jokes", "chuck norris joke", "chuck norris joke api", "chuck norris jokes api"
+    "chuck norris api", "chuck norris jokes api", "chuck norris facts api", "random chuck norris joke", "chuck norris facts"
   ],
   "author": {
     "name": "APIVerve",
@@ -34,7 +34,7 @@
   "bugs": {
     "url": "https://github.com/apiverve/chucknorris-api/issues"
   },
-  "homepage": "https://apiverve.com/marketplace/chucknorris?utm_source=npm&utm_medium=homepage",
+  "homepage": "https://apiverve.com/marketplace/chucknorris?utm_source=npm&utm_medium=referral&utm_content=homepage",
   "devDependencies": {
     "mocha": "^11.0.1",
     "chai": "^5.1.2",
