@@ -1,13 +1,13 @@
-# [Chuck Norris Jokes API](https://apiverve.com/marketplace/chucknorris?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+# [Chuck Norris Jokes API](https://apiverve.com/marketplace/chucknorris?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 
-Chuck Norris Jokes is a simple tool for getting Chuck Norris jokes. It returns a random Chuck Norris joke.
+Chuck Norris Jokes delivers a random Chuck Norris joke on every request without requiring any query parameters. Each call returns plain joke text ready to display in bots, command-line interfaces, or entertainment feeds.
 
 The Chuck Norris Jokes API provides a simple, reliable way to integrate chuck norris jokes functionality into your applications. Built for developers who need production-ready chuck norris jokes capabilities without the complexity of building from scratch.
 
-**[View API Details →](https://apiverve.com/marketplace/chucknorris?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)**
+**[View API Details →](https://apiverve.com/marketplace/chucknorris?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![API Status](https://img.shields.io/badge/Status-Active-green.svg)](https://apiverve.com/marketplace/chucknorris?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+[![API Status](https://img.shields.io/badge/Status-Active-green.svg)](https://apiverve.com/marketplace/chucknorris?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 [![Method](https://img.shields.io/badge/Method-GET-blue.svg)](#)
 [![Platform](https://img.shields.io/badge/Platform-Multi--Platform-orange.svg)](#installation)
 
@@ -157,7 +157,7 @@ go get github.com/apiverve/chucknorris-api/go
 
 ## Documentation
 
-- 🏠 **API Home:** [Chuck Norris Jokes API](https://apiverve.com/marketplace/chucknorris?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+- 🏠 **API Home:** [Chuck Norris Jokes API](https://apiverve.com/marketplace/chucknorris?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 - 📚 **API Reference:** [docs.apiverve.com/ref/chucknorris](https://docs.apiverve.com/ref/chucknorris)
 - 📖 **OpenAPI Spec:** [openapi.yaml](./openapi.yaml)
 - 💡 **Examples:** [examples/](./examples/)
@@ -216,7 +216,7 @@ A real response from the Chuck Norris Jokes API:
 
 ## Support & Community
 
-- 🏠 **API Home**: [Chuck Norris Jokes API](https://apiverve.com/marketplace/chucknorris?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+- 🏠 **API Home**: [Chuck Norris Jokes API](https://apiverve.com/marketplace/chucknorris?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 - 💬 **Support**: [https://apiverve.com/contact](https://apiverve.com/contact)
 - 🐛 **Issues**: [GitHub Issues](../../issues)
 - 📖 **Documentation**: [https://docs.apiverve.com](https://docs.apiverve.com)

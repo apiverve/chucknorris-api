@@ -2,8 +2,9 @@ openapi: 3.0.4
 info:
   title: Chuck Norris Jokes
   description: >-
-    Chuck Norris Jokes is a simple tool for getting Chuck Norris jokes. It
-    returns a random Chuck Norris joke.
+    Chuck Norris Jokes delivers a random Chuck Norris joke on every request
+    without requiring any query parameters. Each call returns plain joke text
+    ready to display in bots, command-line interfaces, or entertainment feeds.
   termsOfService: https://apiverve.com/terms/
   contact:
     name: APIVerve Support
@@ -18,7 +19,7 @@ servers:
 paths:
   /v1/chucknorris:
     get:
-      summary: Get Random Chuck Norris Joke
+      summary: Chuck Norris Jokes
       description: Get a random Chuck Norris joke
       operationId: chucknorris
       parameters: []
