@@ -1,6 +1,6 @@
 # Chuck Norris Jokes API - PHP Package
 
-Chuck Norris Jokes is a simple tool for getting Chuck Norris jokes. It returns a random Chuck Norris joke.
+Chuck Norris Jokes delivers a random Chuck Norris joke on every request without requiring any query parameters. Each call returns plain joke text ready to display in bots, command-line interfaces, or entertainment feeds.
 
 ## Installation
 
@@ -81,11 +81,11 @@ $client = new Client(
 
 ## Documentation
 
-For more information, visit the [API Documentation](https://docs.apiverve.com/ref/chucknorris?utm_source=packagist&utm_medium=readme).
+For more information, visit the [API Documentation](https://docs.apiverve.com/ref/chucknorris?utm_source=packagist&utm_medium=referral&utm_content=readme).
 
 ## Support
 
-- Website: [https://apiverve.com/marketplace/chucknorris?utm_source=php&utm_medium=readme](https://apiverve.com/marketplace/chucknorris?utm_source=php&utm_medium=readme)
+- Website: [https://apiverve.com/marketplace/chucknorris?utm_source=php&utm_medium=referral&utm_content=readme](https://apiverve.com/marketplace/chucknorris?utm_source=php&utm_medium=referral&utm_content=readme)
 - Email: hello@apiverve.com
 
 ## License
