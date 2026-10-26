@@ -1,7 +1,7 @@
 name: apiverve_chucknorris
-description: Chuck Norris Jokes is a simple tool for getting Chuck Norris jokes. It returns a random Chuck Norris joke.
-version: 1.1.14
-homepage: https://apiverve.com/marketplace/chucknorris?utm_source=dart&utm_medium=homepage
+description: "Chuck Norris Jokes delivers a random Chuck Norris joke on every request without requiring any query parameters. Each call returns plain joke text ready to display in bots, command-line interfaces, or entertainment feeds."
+version: 1.2.3
+homepage: https://apiverve.com/marketplace/chucknorris?utm_source=dart&utm_medium=referral&utm_content=homepage
 repository: https://github.com/apiverve/chucknorris-api/tree/main/dart
 
 environment:
