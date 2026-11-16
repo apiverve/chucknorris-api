@@ -101,7 +101,7 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
-    "joke": "The Mona Lisa Used To Smile, Then Chuck Norris Roundhouse Kicked It"
+    "joke": "The Mona Lisa used to smile, then Chuck Norris roundhouse kicked it"
   }
 }
 ```
