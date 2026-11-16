@@ -13,7 +13,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  apiverve_chucknorris: ^1.2.5
+  apiverve_chucknorris: ^1.2.6
 ```
 
 Then run:
@@ -50,7 +50,7 @@ void main() async {
   "status": "ok",
   "error": null,
   "data": {
-    "joke": "The Mona Lisa Used To Smile, Then Chuck Norris Roundhouse Kicked It"
+    "joke": "The Mona Lisa used to smile, then Chuck Norris roundhouse kicked it"
   }
 }
 ```
