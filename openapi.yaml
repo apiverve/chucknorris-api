@@ -45,8 +45,8 @@ paths:
                 error: null
                 data:
                   joke: >-
-                    The Mona Lisa Used To Smile, Then Chuck Norris Roundhouse
-                    Kicked It
+                    The Mona Lisa used to smile, then Chuck Norris roundhouse
+                    kicked it
         '401':
           description: Your request was not authorized, or your API Key was invalid
         '404':
